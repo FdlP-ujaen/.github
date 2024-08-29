@@ -1,5 +1,5 @@
 ## Fundamentos de la Programación 👋
-#### Universodad de Jaén
+#### Universidad de Jaén
 
 🙋‍♀️ Organización creada para proporcionar código de ejemplo al estudiantado de la asignatura Fundamentos de la Programación del Grado en Ingeniería Informática
 
